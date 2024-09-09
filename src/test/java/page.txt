@@ -1,4 +1,0 @@
-I am a page.
-A small page, and a page with two paragraphs.
-
-This is the second paragraph. Awesome.
